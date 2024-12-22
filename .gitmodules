@@ -1,0 +1,6 @@
+[submodule "ibb-hackathon-backend"]
+	path = ibb-hackathon-backend
+	url = git@github.com:egedolmaci/ibb-hackathon-backend.git
+[submodule "ibb-front"]
+	path = ibb-front
+	url = git@github.com:egeyardimci/ibb-front.git
